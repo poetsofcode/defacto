@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1.0" client="site" method="upgrade">
+    <name>ITL Social</name>
+    <author>iThemesLab</author>
+    <version>1.0</version>
+    <description>A simple social module by iThemesLab.</description>
+
+    <files>
+        <filename>mod_itl_social.xml</filename>
+        <filename module="mod_itl_social">mod_itl_social.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <folder>tmpl</folder>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+
+    <config>
+        <fields name="params">
+
+            <fieldset name="basic">
+				<field name="facebook_url" type="text" label="Facebook" description="Use your facebook profile link." />
+				<field name="twitter_url" type="text" label="Twitter" description="Use your twitter profile link." />
+				<field name="gplus_url" type="text" label="Google Plus" description="Use your google plus profile link." />
+                <field name="youtube_url" type="text" label="Youtube" description="Use your youtube profile link." />
+                <field name="pinterest_url" type="text" label="Pinterest" description="Use your pinterest profile link." />
+                <field name="dribbble_url" type="text" label="Dribbble" description="Use your dribbble profile link." />
+                <field name="behance_url" type="text" label="Behance" description="Use your behance profile link." />
+                <field name="instagram_url" type="text" label="Instagram" description="Use your instagram profile link." />
+                <field name="flickr_url" type="text" label="Flickr" description="Use your flickr profile link." />
+                <field name="git_url" type="text" label="Git" description="Use your git profile link." />
+                <field name="linkedin_url" type="text" label="Linkedin" description="Use your linkedin profile link." />
+                <field name="rss_url" type="text" label="RSS Feed" description="Use your rss feed link." />
+            </fieldset>
+
+            <fieldset name="advanced">
+                <field name="layout" type="modulelayout" label="JFIELD_ALT_LAYOUT_LABEL"    description="JFIELD_ALT_MODULE_LAYOUT_DESC" />
+                <field name="moduleclass_sfx" type="text" label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL" description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+                <field name="cache" type="list" default="1" label="COM_MODULES_FIELD_CACHING_LABEL" description="COM_MODULES_FIELD_CACHING_DESC">
+                    <option value="1">JGLOBAL_USE_GLOBAL</option>
+                    <option value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+                </field>
+                <field name="cache_time" type="text" default="900" label="COM_MODULES_FIELD_CACHE_TIME_LABEL" description="COM_MODULES_FIELD_CACHE_TIME_DESC" />
+                <field name="cachemode" type="hidden" default="static">
+                    <option value="static"></option>
+                </field>
+            </fieldset>
+            
+        </fields>
+    </config>
+</extension>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.7" method="upgrade">
+	<name>EU e-Privacy Directive Package</name>
+	<creationDate>March 2018</creationDate>
+	<packagename>eprivacy</packagename>
+	<version>3.10.13</version>
+	<url>http://www.richeyweb.com</url>
+	<author>Michael Richey</author>
+	<authorEmail>eprivacy@richeyweb.com</authorEmail>
+	<authorUrl>http://www.richeyweb.com</authorUrl>
+	<description>EU e-Privacy Directive Plugin and Module</description>
+	<files folder="packages">
+		<file type="plugin" id="eprivacygeoip" client="system">plg_system_eprivacygeoip.zip</file>
+		<file type="plugin" id="eprivacy" client="system">plg_system_eprivacy.zip</file>
+		<file type="plugin" id="eprivacy" client="ajax">plg_ajax_eprivacy.zip</file>
+		<file type="module" id="eprivacy">mod_eprivacy.zip</file>
+	</files>
+	<updateservers>
+		<server type="extension" priority="1" name="RicheyWeb Update Site">https://cdn.richeyweb.com/updates/eprivacy.xml</server>
+	</updateservers>
+</extension>

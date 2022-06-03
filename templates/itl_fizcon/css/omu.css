@@ -1,0 +1,92 @@
+@font-face {
+  font-family: "Formata";
+  src: url("../fonts/formata-bold.otf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Fruti-Bold";
+  src: url("../fonts/fruti-bo.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Fruti-Normal";
+  src: url("../fonts/fruti-no.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Verdana";
+  src: url("../fonts/verdanab.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, p {
+  font-family: "Fruti-Normal", sans-serif;
+}
+
+.hero_text .home_text h2{
+  font-family: "Formata";
+  font-size: 110px;
+  font-weight: 900;
+  line-height: 1.15em;
+  color:#fff !important;
+}
+
+@media screen and (max-width: 1024px) {
+.hero_text .home_text h2{
+   font-size: 80px;
+} 
+}
+
+@media screen and (max-width: 767px) {
+.hero_text .home_text h2{
+   font-size: 48px;
+} 
+}
+
+.hero_text .home_text h3{
+   font-family: "Formata";
+   font-size: 70px;
+   font-weight: 900;
+   line-height: 1.15em;
+  color:#fff !important;
+}
+
+@media screen and (max-width: 1024px) {
+.hero_text .home_text h3{
+   font-size: 48px;
+} 
+}
+
+@media screen and (max-width: 767px) {
+.hero_text .home_text h3{
+   font-size: 32px;
+} 
+}
+
+.hero_text .home_text span{
+    color:#ed314d !important;
+}
+
+#sp-bottom .sppb-addon-icons-group a{
+color: #fefefe !important;
+display: inline;
+margin:10px !important;
+}
+
+#sp-top-bar .sppb-addon-icons-group a{
+color: #707070 !important;
+display: inline;
+margin:10px !important;
+}
+
+#sp-bottom .sppb-addon-icons-group i{
+padding-right:0px !important;
+}
+
+#sp-top-bar .sppb-addon-icons-group i{
+padding-right:0px !important;
+}

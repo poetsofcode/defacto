@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system" method="upgrade">
+	<name>plg_system_erecht24ids</name>
+	<author>eRecht24</author>
+	<creationDate>Januar 2019</creationDate>
+	<copyright>Copyright (C) 2019 eRecht24 GmbH &amp; Co. KG</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>info@e-recht24.de</authorEmail>
+	<authorUrl>www.e-recht24.de</authorUrl>
+	<version>1.1.1</version>
+	<description>PLG_SYSTEM_ERECHT24IDS_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="erecht24ids">erecht24ids.php</filename>
+	</files>
+	<languages>
+		<language tag="de-DE">language/de-DE/de-DE.plg_system_erecht24ids.ini</language>
+		<language tag="de-DE">language/de-DE/de-DE.plg_system_erecht24ids.sys.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_system_erecht24ids.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_system_erecht24ids.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="spacerstyle"
+					type="spacer"
+					label="PLG_SYSTEM_ERECHT24IDS_FIELD_SPACERSTYLE_LABEL" />
+				<field name="imprintcode" 
+					type="textarea"
+					default=""
+					description="PLG_SYSTEM_ERECHT24IDS_FIELD_IMPRINTCODE_DESC"
+					label="PLG_SYSTEM_ERECHT24IDS_FIELD_IMPRINTCODE_LABEL"
+					cols="80"
+					rows="10"
+					class="e24-textarea" 
+					hint="PLG_SYSTEM_ERECHT24IDS_FIELD_IMPRINTCODE_HINT"
+					filter="raw"/>
+				<field name="privacycode" 
+					type="textarea"
+					default=""
+					description="PLG_SYSTEM_ERECHT24IDS_FIELD_PRIVACYCODE_DESC"
+					label="PLG_SYSTEM_ERECHT24IDS_FIELD_PRIVACYCODE_LABEL"
+					cols="80"
+					rows="10" 
+					class="e24-textarea" 
+					hint="PLG_SYSTEM_ERECHT24IDS_FIELD_PRIVACYCODE_HINT"
+					filter="raw"/>
+				<field name="gauid" 
+					type="text"
+					default=""
+					description="PLG_SYSTEM_ERECHT24IDS_FIELD_GAUID_DESC"
+					label="PLG_SYSTEM_ERECHT24IDS_FIELD_GAUID_LABEL"
+					hint="UA-XXXXXX-X"
+					class="e24-guaid"
+				/>
+			</fieldset>
+		</fields>
+	</config>
+</extension>

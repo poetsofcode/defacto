@@ -1,0 +1,32 @@
+.cookietable {
+    position:relative;
+    margin-top:10px;
+    width:100%;
+    height: 200px;
+    display:block;
+    clear:both;
+    float:left;
+    overflow:scroll;
+}
+.cookietable table {
+    border-collapse: collapse; 
+    margin:0px auto;
+}
+.cookietable tr:nth-of-type(odd) { 
+    background: #eee; 
+}
+.cookietable td, .cookietable th { 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+}
+.cookietable th { 
+    position: sticky;
+    top:0px;
+    background: #555; 
+    color: white; 
+    font-weight: bold; 
+}
+.cookietable td {
+    color: #000;    
+}

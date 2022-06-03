@@ -1,0 +1,397 @@
+/**ABDB**/INSERT INTO `#__acym_mail`  VALUES 
+('17', 'white', '2020-04-22 18:16:23', 'white.png', '1', '1', 'standard', '<div id=\"acym__wysid__template\" class=\"cell\"><table class=\"body\"><tbody><tr><td align=\"center\" class=\"center acym__wysid__template__content\" valign=\"top\" style=\"background-color: rgb(250, 250, 250); padding: 30px 0px 120px;\"><center><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td class=\"acym__wysid__row ui-droppable ui-sortable\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); min-height: 0px; display: table-cell;\"><table class=\"row acym__wysid__row__element\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"z-index: 100; background-color: rgb(250, 250, 250); padding: 0px 20px;\" bgcolor=\"#fafafa\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-12 large-12 columns\" style=\"height: auto;\"><table class=\"acym__wysid__column\" style=\"min-height: 0px; display: table; height: auto;\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group; height: auto;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_582\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word; text-align: center;\" data-mce-style=\"font-family: Helvetica; font-size: 16px; font-weight: normal; font-style: normal; color: #000000; word-break: break-word; text-align: center;\"><span class=\"acym_dynamic mceNonEditable\" contenteditable=\"false\" data-dynamic=\"{readonline}If you can\'t see this e-mail properly, view it online{/readonline}\"><a style=\"text-decoration: none;\" href=\"\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"\" data-mce-style=\"text-decoration: none;\"><span class=\"acym_online\">If you can\'t see this e-mail properly, view it online</span></a><em class=\"acym_remove_dynamic acymicon-close\">&zwj;â</em></span>&nbsp;</p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"z-index: 100; background-color: rgb(250, 250, 250); padding: 0px 20px;\" bgcolor=\"#fafafa\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-12 large-12 columns\" style=\"height: auto;\"><table class=\"acym__wysid__column\" style=\"min-height: 0px; display: table; height: auto;\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group; height: auto;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--image mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_592\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><img class=\"acym__wysid__media__inserted\" style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0px 5px; display: block; margin-left: auto; margin-right: auto; width: 540px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/img_template/white/shadowtop.jpg\" alt=\"shadowtop.jpg\" data-mce-src=\"../images/shadowtop.jpg\" data-mce-style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0 5px; display: block; margin-left: auto; margin-right: auto;\" height=\"10\" width=\"540\"></p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-4 large-4 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--image mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_593\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><img class=\"acym__wysid__media__inserted\" style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0px 5px; display: block; margin-left: auto; margin-right: auto; width: 30px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/img_template/white/mail.jpg\" alt=\"mail.jpg\" data-mce-src=\"../images/mail.jpg\" data-mce-style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0 5px; display: block; margin-left: auto; margin-right: auto;\" height=\"12\" width=\"30\"></p></div></td></tr></tbody></table></th><th class=\"small-12 medium-8 large-8 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_583\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><span style=\"color: #999999; font-family: Helvetica; text-align: center;\" data-mce-style=\"color: #999999; font-family: Helvetica; text-align: center;\"><span class=\"acym_dynamic mceNonEditable\" contenteditable=\"false\" data-dynamic=\"{date:%B %Y}\">November 2019<em class=\"acym_remove_dynamic acymicon-close\">&zwj;â</em></span> &nbsp;| www.yourwebsite.com</span><br></p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100; padding: 0px 20px;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-12 large-12 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><span class=\"acy-editor__space acy-editor__space--focus\" style=\"display: block; padding: 0px; margin: 0px; height: 15px;\"></span></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100; padding-left: 20px; padding-right: 20px;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-8 large-8 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_584\" contenteditable=\"false\"><h2 data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" style=\"font-family: Helvetica; font-size: 14px; font-weight: bold; font-style: normal; color: rgb(94, 180, 209); word-break: break-word;\">FRESH AND TECHNOLOGIC NEWS!</h2><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\">&nbsp;<br></p><h3 data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\" style=\"font-family: Helvetica; font-size: 12px; font-weight: bold; font-style: normal; color: rgb(86, 86, 86);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris massa quam, eleifend at ornare.</h3><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\"><span style=\"color: #999999; font-family: Helvetica;\" data-mce-style=\"color: #999999; font-family: Helvetica;\">Liget, volutpat esvft sem. Praesent auctor posuere orci, sit amet molutpat esvft sem. Praesent auctor poslee. Integer nec scelerisque quam. Lore uctor posum ipsum dolor sit amesent auc posum ipsum dolor sit amesent auctor.</span></p></div></td></tr><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_585\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\"><a data-mce-href=\"https://www.example.com\" href=\"https://www.example.com\">&gt; Read more</a></p></div></td></tr></tbody></table></th><th class=\"small-12 medium-4 large-4 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--image mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_594\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><img class=\"acym__wysid__media__inserted\" style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0px 5px; display: block; margin-left: auto; margin-right: auto; width: 175px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/img_template/white/pic1.jpg\" alt=\"pic1.jpg\" data-mce-src=\"../images/pic1.jpg\" data-mce-style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0 5px; display: block; margin-left: auto; margin-right: auto;\" height=\"130\" width=\"175\"></p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100; padding: 0px;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-12 large-12 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--image mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_595\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><img class=\"acym__wysid__media__inserted\" style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0px 5px; display: block; margin-left: auto; margin-right: auto; width: 530px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/img_template/white/separator.jpg\" alt=\"separator.jpg\" data-mce-src=\"../images/separator.jpg\" data-mce-style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0 5px; display: block; margin-left: auto; margin-right: auto;\" height=\"40\" width=\"530\"></p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100; position: relative; top: 0px; left: 0px;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-4 large-4 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--image mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_596\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><img class=\"acym__wysid__media__inserted\" style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0px 5px; display: block; margin-left: auto; margin-right: auto; width: 181px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/img_template/white/pic2.jpg\" alt=\"pic2.jpg\" data-mce-src=\"../images/pic2.jpg\" data-mce-style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0 5px; display: block; margin-left: auto; margin-right: auto;\" height=\"132\" width=\"181\"></p></div></td></tr></tbody></table></th><th class=\"small-12 medium-8 large-8 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_586\" contenteditable=\"false\"><h2 data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" style=\"font-family: Helvetica; font-weight: bold; color: rgb(94, 180, 209); font-size: 14px; word-break: break-word; font-style: normal;\">BEST APPLICATIONS ON YOUR LAPTOP</h2><h3 data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: bold; font-style: normal; color: #565656;\" style=\"font-family: Helvetica; font-weight: bold; color: rgb(86, 86, 86); font-size: 12px; font-style: normal;\"><span data-mce-style=\"font-family: Helvetica;\" style=\"font-family: Helvetica;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris massa quam, eleifend at ornare.</span></h3><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\"><span data-mce-style=\"font-family: Helvetica;\" style=\"font-family: Helvetica;\"><span style=\"color: #999999; font-family: Helvetica;\" data-mce-style=\"color: #999999; font-family: Helvetica;\">Liget, volutpat esvft sem. Praesent auctor posuere orci, sit amet molee. Integer nec&nbsp;<a data-mce-href=\"https://www.example.com\" href=\"https://www.example.com\">scelerisque quam</a>. Lore uctor posum ipsum dolor sit amesent auctor.</span></span></p></div></td></tr><tr class=\"acym__wysid__column__element ui-draggable\" style=\"right: inherit; bottom: inherit; height: auto; width: 100px; z-index: 100; position: relative; top: inherit; left: inherit;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_587\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\"><a data-mce-href=\"https://www.example.com\" href=\"https://www.example.com\">&gt; Read more</a></p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100; padding: 0px; position: relative; top: 0px; left: 0px;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-12 large-12 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--image mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_597\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><img class=\"acym__wysid__media__inserted\" style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0px 5px; display: block; margin-left: auto; margin-right: auto; width: 530px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/img_template/white/separator.jpg\" alt=\"separator.jpg\" data-mce-src=\"../images/separator.jpg\" data-mce-style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0 5px; display: block; margin-left: auto; margin-right: auto;\" height=\"40\" width=\"530\"></p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100; padding-left: 20px; padding-right: 20px; position: relative; top: 0px; left: 0px;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-8 large-8 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_588\" contenteditable=\"false\"><h2 data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\" style=\"font-family: Helvetica; font-weight: bold; color: rgb(94, 180, 209); font-size: 14px; font-style: normal;\">BEST APPLICATIONS ON YOUR SMARTPHONE</h2><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\">&nbsp;<br></p><h3 data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\" style=\"font-family: Helvetica; font-size: 12px; font-weight: bold; font-style: normal; color: rgb(86, 86, 86);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris massa quam, eleifend at ornare.</h3><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\"><span style=\"color: #999999; font-family: Helvetica;\" data-mce-style=\"color: #999999; font-family: Helvetica;\">Liget, volutpat esvft sem. Praesent auctor posuere orci, sit amet molutpat esvft sem. Praesent auctor poslee. Integer nec <a data-mce-href=\"https://www.example.com\" href=\"https://www.example.com\">scelerisque quam</a>. Lore uctor posum ipsum dolor sit amesent auc posum ipsum dolor sit amesent auctor.</span></p></div></td></tr><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_589\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999;\"><a data-mce-href=\"https://www.example.com\" href=\"https://www.example.com\">&gt; Read more</a></p></div></td></tr></tbody></table></th><th class=\"small-12 medium-4 large-4 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--image mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_598\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><img class=\"acym__wysid__media__inserted\" style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0px 5px; display: block; margin-left: auto; margin-right: auto; width: 175px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/img_template/white/pic3.jpg\" alt=\"pic3.jpg\" data-mce-src=\"../images/pic3.jpg\" data-mce-style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0 5px; display: block; margin-left: auto; margin-right: auto;\" height=\"119\" width=\"175\"></p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100; padding: 0px 20px; position: relative; top: 0px; left: 0px;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-12 large-12 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><span class=\"acy-editor__space acy-editor__space--focus\" style=\"display: block; padding: 0px; margin: 0px; height: 15px;\"></span></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" bgcolor=\"#ffffff\" style=\"background-color: rgb(255, 255, 255); z-index: 100; padding-left: 20px; padding-right: 20px;\" cellpadding=\"0\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-4 large-4 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div style=\"text-align: center;\"><p class=\"acym__wysid__column__element__follow acym__wysid__column__element__follow--focus\" style=\"text-align: center; cursor: pointer; padding: 0px; margin: 0px; font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word;\"><a class=\"acym__wysid__column__element__follow__facebook\" href=\"\"><img style=\"display: inline-block; max-width: 100%; height: auto; box-sizing: border-box; width: 30px; padding: 3px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/logo/facebook.png\" width=\"24\" alt=\"facebook\" height=\"24\"></a><a class=\"acym__wysid__column__element__follow__twitter\" href=\"\"><img style=\"display: inline-block; max-width: 100%; height: auto; box-sizing: border-box; width: 30px; padding: 3px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/logo/twitter.png\" width=\"24\" alt=\"twitter\" height=\"24\"></a><a class=\"acym__wysid__column__element__follow__linkedin\" href=\"\"><img style=\"display: inline-block; max-width: 100%; height: auto; box-sizing: border-box; width: 30px; padding: 3px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/logo/linkedin.png\" width=\"24\" alt=\"\" height=\"24\"></a></p></div></td></tr></tbody></table></th><th class=\"small-12 medium-8 large-8 columns acym__wysid__row__element__th\" valign=\"top\"><table class=\"acym__wysid__column\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"min-height: 0px; display: table;\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_590\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word; text-align: right;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word; text-align: right;\">Contact us</p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"z-index: 100; background-color: rgb(250, 250, 250); padding: 0px 20px; position: relative; top: 0px; left: 0px;\" bgcolor=\"#fafafa\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-12 large-12 columns\" style=\"height: auto;\"><table class=\"acym__wysid__column\" style=\"min-height: 0px; display: table; height: auto;\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group; height: auto;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--image mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_599\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\" data-mce-style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: #999999; word-break: break-word;\"><img class=\"acym__wysid__media__inserted\" style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0px 5px; display: block; margin-left: auto; margin-right: auto; width: 540px;\" src=\"http://poetsofcode.com/joomla/defacto/media/com_acym/images/img_template/white/shadowbottom.jpg\" alt=\"shadowbottom.jpg\" data-mce-src=\"../images/shadowbottom.jpg\" data-mce-style=\"max-width: 100%; height: auto; box-sizing: border-box; padding: 0 5px; display: block; margin-left: auto; margin-right: auto;\" height=\"11\" width=\"540\"></p></div></td></tr></tbody></table></th></tr></tbody></table><table class=\"row acym__wysid__row__element\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"z-index: 100; background-color: rgb(250, 250, 250); padding: 0px 20px; position: relative; top: 0px; left: 0px;\" bgcolor=\"#fafafa\"><tbody bgcolor=\"\" style=\"background-color: inherit;\"><tr><th class=\"small-12 medium-12 large-12 columns\" style=\"height: auto;\"><table class=\"acym__wysid__column\" style=\"min-height: 0px; display: table; height: auto;\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody class=\"ui-sortable\" style=\"min-height: 0px; display: table-row-group; height: auto;\"><tr class=\"acym__wysid__column__element ui-draggable\" style=\"position: relative; top: inherit; left: inherit; right: inherit; bottom: inherit; height: auto;\"><td class=\"large-12 acym__wysid__column__element__td\" style=\"outline-width: 0px;\"><div class=\"acym__wysid__tinymce--text mce-content-body\" style=\"position: relative;\" spellcheck=\"false\" id=\"mce_591\" contenteditable=\"false\"><p style=\"font-family: Helvetica; font-size: 12px; font-weight: normal; font-style: normal; color: rgb(153, 153, 153); word-break: break-word; text-align: center;\" data-mce-style=\"font-family: Helvetica; font-size: 16px; font-weight: normal; font-style: normal; color: #000000; word-break: break-word; text-align: center;\">&nbsp;<span class=\"acym_dynamic mceNonEditable\" contenteditable=\"false\" data-dynamic=\"{unsubscribe}If you don\'t want to receive our news anymore, unsubscribe{/unsubscribe}\"><a style=\"text-decoration: none;\" href=\"\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"\" data-mce-style=\"text-decoration: none;\"><span class=\"acym_unsubscribe\">If you don\'t want to receive our news anymore, unsubscribe</span></a><em class=\"acym_remove_dynamic acymicon-close\">&zwj;â</em></span>&nbsp;</p></div></td></tr></tbody></table></th></tr></tbody></table></td></tr></tbody></table></center></td></tr></tbody></table></div>\n', '', '1', NULL, NULL, NULL, NULL, NULL, '{\"p\":{\"font-family\":\"Helvetica\",\"font-size\":\"12px\",\"color\":\"#999999\"},\"#acym__wysid__background-colorpicker\":{\"background-color\":\"#fafafa\"},\"h1\":{\"font-family\":\"Helvetica\",\"font-size\":\"18px\",\"font-weight\":\"bold\",\"color\":\"#5eb4d1\"},\"h2\":{\"font-family\":\"Helvetica\",\"font-size\":\"14px\",\"font-weight\":\"bold\",\"color\":\"#5eb4d1\"},\"h3\":{\"font-family\":\"Helvetica\",\"font-size\":\"12px\",\"font-weight\":\"bold\",\"color\":\"#565656\"}}', 'h2 {\n  text-transform: uppercase;\n}\n#acym__wysid__template a {\n  cursor: pointer;\n  color: #5eb4d1;\n  text-decoration: none;\n  border: none;\n}\n#acym__wysid__template span a .acym_online, #acym__wysid__template span a .acym_unsubscribe {\n  color: #cecece;\n}\n#acym__wysid__template a.acymailing_readmore_link {\n  cursor: pointer;\n  font-weight: bold;\n  font-size: 12px;\n  color: #5eb4d1;\n  text-decoration: underline;\n}', NULL, '595', NULL, NULL, NULL, NULL, '');
+/**ABDB**/CREATE TABLE `#__acym_campaign` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `sending_date` datetime DEFAULT NULL,
+  `draft` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) NOT NULL DEFAULT '1',
+  `mail_id` int(11) DEFAULT NULL,
+  `sent` tinyint(1) NOT NULL DEFAULT '0',
+  `sending_type` varchar(16) DEFAULT NULL,
+  `sending_params` text,
+  `parent_id` int(11) DEFAULT NULL,
+  `last_generated` int(11) DEFAULT NULL,
+  `next_trigger` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `fk_vq3ai_acym_campaign_has_mail1` (`mail_id`),
+  CONSTRAINT `fk_vq3ai_acym_campaign_has_mail1` FOREIGN KEY (`mail_id`) REFERENCES `#__acym_mail` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/CREATE TABLE `#__acym_list` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `active` tinyint(1) NOT NULL DEFAULT '1',
+  `visible` tinyint(1) NOT NULL DEFAULT '1',
+  `clean` tinyint(1) DEFAULT NULL,
+  `color` varchar(30) DEFAULT NULL,
+  `creation_date` datetime DEFAULT NULL,
+  `welcome_id` int(11) DEFAULT NULL,
+  `unsubscribe_id` int(11) DEFAULT NULL,
+  `cms_user_id` int(11) NOT NULL,
+  `front_management` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `fk_vq3ai_acym_list_has_mail1` (`welcome_id`),
+  KEY `fk_vq3ai_acym_list_has_mail2` (`unsubscribe_id`),
+  CONSTRAINT `fk_vq3ai_acym_list_has_mail1` FOREIGN KEY (`welcome_id`) REFERENCES `#__acym_mail` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_vq3ai_acym_list_has_mail2` FOREIGN KEY (`unsubscribe_id`) REFERENCES `#__acym_mail` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_list`  VALUES 
+('1', 'Newsletters', '1', '1', NULL, '#3366ff', '2020-01-21 18:28:38', NULL, NULL, '595', NULL),
+('2', 'Testing list', '1', '0', NULL, '#94d4a6', '2020-01-21 18:29:07', NULL, NULL, '595', NULL);
+/**ABDB**/CREATE TABLE `#__acym_user_has_list` (
+  `user_id` int(11) NOT NULL,
+  `list_id` int(11) NOT NULL,
+  `status` tinyint(1) NOT NULL,
+  `subscription_date` datetime NOT NULL,
+  `unsubscribe_date` datetime DEFAULT NULL,
+  PRIMARY KEY (`user_id`,`list_id`),
+  KEY `fk_vq3ai_acym_user_has_list1` (`list_id`),
+  KEY `fk_vq3ai_acym_user_has_list2` (`user_id`),
+  CONSTRAINT `fk_vq3ai_acym_user_has_list1` FOREIGN KEY (`user_id`) REFERENCES `#__acym_user` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_vq3ai_acym_user_has_list2` FOREIGN KEY (`list_id`) REFERENCES `#__acym_list` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_user_has_list`  VALUES 
+('1', '2', '1', '2020-01-21 19:29:07', NULL),
+('2', '1', '1', '2020-01-23 14:49:53', NULL);
+/**ABDB**/CREATE TABLE `#__acym_user_stat` (
+  `user_id` int(11) NOT NULL,
+  `mail_id` int(11) NOT NULL,
+  `send_date` datetime DEFAULT NULL,
+  `fail` int(11) NOT NULL DEFAULT '0',
+  `sent` int(11) NOT NULL DEFAULT '0',
+  `open` int(11) NOT NULL DEFAULT '0',
+  `open_date` datetime DEFAULT NULL,
+  `bounce` tinyint(4) NOT NULL,
+  `bounce_rule` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`user_id`,`mail_id`),
+  KEY `fk_vq3ai_acym_user_stat1` (`mail_id`),
+  CONSTRAINT `fk_vq3ai_acym_user_stat1` FOREIGN KEY (`mail_id`) REFERENCES `#__acym_mail` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/CREATE TABLE `#__acym_url_click` (
+  `mail_id` int(11) NOT NULL,
+  `url_id` int(11) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `click` int(11) NOT NULL DEFAULT '0',
+  `date_click` datetime DEFAULT NULL,
+  PRIMARY KEY (`mail_id`,`url_id`,`user_id`),
+  KEY `fk_vq3ai_acym_url_has_url1` (`url_id`),
+  CONSTRAINT `fk_vq3ai_acym_url_click_has_mail` FOREIGN KEY (`mail_id`) REFERENCES `#__acym_mail` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_vq3ai_acym_url_has_url` FOREIGN KEY (`url_id`) REFERENCES `#__acym_url` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/CREATE TABLE `#__acym_queue` (
+  `mail_id` int(11) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `sending_date` datetime NOT NULL,
+  `priority` int(11) NOT NULL DEFAULT '2',
+  `try` tinyint(4) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`mail_id`,`user_id`),
+  KEY `fk_vq3ai_acym_queue1` (`mail_id`),
+  KEY `fk_vq3ai_acym_queue2` (`user_id`),
+  CONSTRAINT `fk_vq3ai_acym_queue1` FOREIGN KEY (`mail_id`) REFERENCES `#__acym_mail` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_vq3ai_acym_queue2` FOREIGN KEY (`user_id`) REFERENCES `#__acym_user` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/CREATE TABLE `#__acym_mail_stat` (
+  `mail_id` int(11) NOT NULL,
+  `total_subscribers` int(11) NOT NULL DEFAULT '0',
+  `sent` int(11) DEFAULT '0',
+  `send_date` datetime DEFAULT NULL,
+  `fail` int(11) DEFAULT '0',
+  `open_unique` int(11) NOT NULL DEFAULT '0',
+  `open_total` int(11) NOT NULL DEFAULT '0',
+  `bounce_unique` mediumint(8) NOT NULL,
+  `bounce_details` longtext,
+  PRIMARY KEY (`mail_id`),
+  CONSTRAINT `fk_vq3ai_acym_mail_stat1` FOREIGN KEY (`mail_id`) REFERENCES `#__acym_mail` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/CREATE TABLE `#__acym_mail_has_list` (
+  `mail_id` int(11) NOT NULL,
+  `list_id` int(11) NOT NULL,
+  PRIMARY KEY (`mail_id`,`list_id`),
+  KEY `fk_vq3ai_acym_mail_has_list1` (`list_id`),
+  KEY `fk_vq3ai_acym_mail_has_list2` (`mail_id`),
+  CONSTRAINT `fk_vq3ai_acym_mail_has_list1` FOREIGN KEY (`mail_id`) REFERENCES `#__acym_mail` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_vq3ai_acym_mail_has_list2` FOREIGN KEY (`list_id`) REFERENCES `#__acym_list` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/CREATE TABLE `#__acym_history` (
+  `user_id` int(11) NOT NULL,
+  `date` int(11) NOT NULL,
+  `ip` varchar(16) DEFAULT NULL,
+  `action` varchar(50) NOT NULL,
+  `data` text,
+  `source` text,
+  `mail_id` mediumint(9) DEFAULT NULL,
+  PRIMARY KEY (`user_id`,`date`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_history`  VALUES 
+('1', '1579631319', '', 'created', 'EXECUTED_BY::595 ( Jamie Ashbrook )', 'HTTP_REFERER::http://localhost/test/joomla/wjharz/administrator/index.php?option=com_installer\nHTTP_USER_AGENT::Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36\nHTTP_HOST::localhost\nSERVER_ADDR::::1\nREMOTE_ADDR::::1\nREQUEST_URI::/test/joomla/wjharz/administrator/index.php?option=com_installer&view=install\nQUERY_STRING::option=com_installer&view=install', '0'),
+('1', '1579631348', '', 'subscribed', 'Lists n° 2\nEXECUTED_BY::595 ( Jamie Ashbrook )', 'HTTP_REFERER::http://localhost/test/joomla/wjharz/administrator/index.php?option=com_acym&ctrl=dashboard\nHTTP_USER_AGENT::Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36\nHTTP_HOST::localhost\nSERVER_ADDR::::1\nREMOTE_ADDR::::1\nREQUEST_URI::/test/joomla/wjharz/administrator/index.php?option=com_acym&ctrl=dashboard\nQUERY_STRING::option=com_acym&ctrl=dashboard', '0'),
+('1', '1588584948', '88.130.57.25', 'modified', 'EXECUTED_BY::595 ( root )', 'HTTP_REFERER::http://omu.agency/defacto/administrator/index.php?option=com_users&view=user&layout=edit&id=595\nHTTP_USER_AGENT::Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36\nHTTP_HOST::omu.agency\nSERVER_ADDR::85.13.131.43\nREMOTE_ADDR::88.130.57.25\nREQUEST_URI::/defacto/administrator/index.php?option=com_users&layout=edit&id=595\nQUERY_STRING::option=com_users&layout=edit&id=595', '0'),
+('2', '1579787391', '', 'created', '', 'HTTP_REFERER::http://localhost/test/joomla/wjharz/index.php/kontakt\nHTTP_USER_AGENT::Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36\nHTTP_HOST::localhost\nSERVER_ADDR::::1\nREMOTE_ADDR::::1\nREQUEST_URI::/test/joomla/wjharz/index.php/kontakt', '0'),
+('2', '1579787392', '', 'subscribed', 'Lists n° 1', 'HTTP_REFERER::http://localhost/test/joomla/wjharz/index.php/kontakt\nHTTP_USER_AGENT::Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36\nHTTP_HOST::localhost\nSERVER_ADDR::::1\nREMOTE_ADDR::::1\nREQUEST_URI::/test/joomla/wjharz/index.php/kontakt', '0'),
+('4', '1588670818', '89.247.124.92', 'created', 'EXECUTED_BY::595 ( root )', 'HTTP_REFERER::http://omu.agency/defacto/administrator/index.php?option=com_users&view=user&layout=edit\nHTTP_USER_AGENT::Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36\nHTTP_HOST::omu.agency\nSERVER_ADDR::85.13.131.43\nREMOTE_ADDR::89.247.124.92\nREQUEST_URI::/defacto/administrator/index.php?option=com_users&layout=edit&id=0\nQUERY_STRING::option=com_users&layout=edit&id=0', '0');
+/**ABDB**/CREATE TABLE `#__acym_field` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `type` varchar(255) NOT NULL,
+  `value` longtext,
+  `active` tinyint(3) NOT NULL,
+  `default_value` longtext,
+  `required` tinyint(3) DEFAULT NULL,
+  `ordering` int(11) NOT NULL,
+  `option` longtext,
+  `core` tinyint(3) DEFAULT NULL,
+  `backend_edition` tinyint(3) DEFAULT NULL,
+  `backend_listing` tinyint(3) DEFAULT NULL,
+  `frontend_edition` tinyint(3) DEFAULT NULL,
+  `frontend_listing` tinyint(3) DEFAULT NULL,
+  `access` varchar(255) DEFAULT NULL,
+  `namekey` varchar(255) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_field`  VALUES 
+('1', 'ACYM_NAME', 'text', NULL, '1', NULL, '0', '1', '{\"editable_user_creation\":\"1\",\"editable_user_modification\":\"1\",\"error_message\":\"\",\"error_message_invalid\":\"\",\"size\":\"\",\"rows\":\"\",\"columns\":\"\",\"format\":\"\",\"custom_text\":\"\",\"css_class\":\"\",\"authorized_content\":{\"0\":\"all\",\"regex\":\"\"}}', '1', '1', '1', '1', '1', 'all', 'acym_name'),
+('2', 'ACYM_EMAIL', 'text', NULL, '1', NULL, '1', '2', '{\"editable_user_creation\":\"1\",\"editable_user_modification\":\"1\",\"error_message\":\"\",\"error_message_invalid\":\"\",\"size\":\"\",\"rows\":\"\",\"columns\":\"\",\"format\":\"\",\"custom_text\":\"\",\"css_class\":\"\",\"authorized_content\":{\"0\":\"all\",\"regex\":\"\"}}', '1', '1', '1', '1', '1', 'all', 'acym_name');
+/**ABDB**/CREATE TABLE `#__acym_user_has_field` (
+  `user_id` int(11) NOT NULL,
+  `field_id` int(11) NOT NULL,
+  `value` longtext,
+  PRIMARY KEY (`user_id`,`field_id`),
+  KEY `fk_vq3ai_acym_user_has_field1` (`field_id`),
+  KEY `fk_vq3ai_acym_user_has_field2` (`user_id`),
+  CONSTRAINT `fk_vq3ai_acym_user_has_field1` FOREIGN KEY (`user_id`) REFERENCES `#__acym_user` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_vq3ai_acym_user_has_field2` FOREIGN KEY (`field_id`) REFERENCES `#__acym_field` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/CREATE TABLE `#__acym_configuration` (
+  `name` varchar(255) NOT NULL,
+  `value` text NOT NULL,
+  PRIMARY KEY (`name`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_configuration`  VALUES 
+('add_names', '1'),
+('allowed_files', 'zip,doc,docx,pdf,xls,txt,gzip,rar,jpg,jpeg,gif,xlsx,pps,csv,bmp,ico,odg,odp,ods,odt,png,ppt,swf,xcf,mp3,wma'),
+('allow_modif', 'data'),
+('allow_visitor', '1'),
+('anonymizeold', '0'),
+('anonymous_tracking', '0'),
+('bounceVersion', '1'),
+('bounce_email', 'email@email.com'),
+('charset', 'UTF-8'),
+('confirmation_message', '1'),
+('confirm_redirect', ''),
+('cron_frequency', '900'),
+('cron_fromip', ''),
+('cron_fullreport', '1'),
+('cron_last', '0'),
+('cron_next', '1251990901'),
+('cron_report', ''),
+('cron_savepath', 'media/com_acym\\logs\\report{year}_{month}.log'),
+('cron_savereport', '2'),
+('cron_sendreport', '2');
+/**ABDB**/INSERT INTO `#__acym_configuration`  VALUES 
+('cron_sendto', 'email@email.com'),
+('css_backend', ''),
+('css_frontend', ''),
+('daily_hour', '12'),
+('daily_minute', '00'),
+('editor', 'codemirror'),
+('embed_files', '1'),
+('embed_images', '0'),
+('encoding_format', '8bit'),
+('Enterprise', '2'),
+('Essential', '1'),
+('expirationdate', '0'),
+('export_excelsecurity', '1'),
+('forward', '0'),
+('from_as_replyto', '1'),
+('from_email', 'email@email.com'),
+('from_name', 'wjharz'),
+('gdpr_delete', '0'),
+('gdpr_export', '0'),
+('generate_name', '1');
+/**ABDB**/INSERT INTO `#__acym_configuration`  VALUES 
+('hostname', ''),
+('installcomplete', '1'),
+('install_date', '1579631318'),
+('introjs', '[]'),
+('lastlicensecheck', '1579631354'),
+('last_import', ''),
+('latestversion', '6.7.5'),
+('level', 'Starter'),
+('mailer_method', 'mail'),
+('max_execution_time', '0'),
+('migration', '1'),
+('multiple_part', '1'),
+('notifications', '[{\"message\":\"D:\\\\Xampp\\\\htdocs\\\\test\\\\joomla\\\\wjharz\\\\administrator\\\\components\\\\com_acym\\\\extensions\\\\mod_acym\\\\tmpl\\\\default.php is not a file\",\"date\":1579631334,\"read\":false,\"level\":\"error\",\"id\":\"5e2742e603570\"}]'),
+('notification_accept', ''),
+('notification_created', ''),
+('notification_refuse', ''),
+('notification_unsuball', ''),
+('numberThumbnail', '2'),
+('priority_followup', '2'),
+('priority_newsletter', '3');
+/**ABDB**/INSERT INTO `#__acym_configuration`  VALUES 
+('queue_nbmail', '40'),
+('queue_nbmail_auto', '70'),
+('queue_pause', '120'),
+('queue_try', '3'),
+('queue_type', 'auto'),
+('regacy', '1'),
+('regacy_delete', '1'),
+('regacy_forceconf', '0'),
+('remindme', '[]'),
+('replyto_email', 'email@email.com'),
+('replyto_name', 'wjharz'),
+('require_confirmation', '1'),
+('security_key', 'AYxbKENQJAIlZnoQRRXTjoNqEDmji8'),
+('sendmail_path', '/usr/sbin/sendmail'),
+('smtp_auth', '0'),
+('smtp_host', 'localhost'),
+('smtp_password', ''),
+('smtp_port', '25'),
+('smtp_secured', ''),
+('smtp_username', '');
+/**ABDB**/INSERT INTO `#__acym_configuration`  VALUES 
+('social_icons', '{\"facebook\": \"http://localhost/test/joomla/wjharz/media/com_acym/images/logo/facebook.png\", \"twitter\": \"http://localhost/test/joomla/wjharz/media/com_acym/images/logo/twitter.png\", \"instagram\": \"http://localhost/test/joomla/wjharz/media/com_acym/images/logo/instagram.png\", \"linkedin\": \"http://localhost/test/joomla/wjharz/media/com_acym/images/logo/linkedin.png\", \"pinterest\": \"http://localhost/test/joomla/wjharz/media/com_acym/images/logo/pinterest.png\", \"vimeo\": \"http://localhost/test/joomla/wjharz/media/com_acym/images/logo/vimeo.png\", \"wordpress\": \"http://localhost/test/joomla/wjharz/media/com_acym/images/logo/wordpress.png\", \"youtube\": \"http://localhost/test/joomla/wjharz/media/com_acym/images/logo/youtube.png\"}'),
+('Starter', '0'),
+('subscription_message', '1'),
+('templates_installed', '0'),
+('trackingsystem', 'acymailing'),
+('trackingsystemexternalwebsite', '1'),
+('unsubscribe_page', '1'),
+('unsub_message', '1'),
+('unsub_reasons', 'a:2:{i:0;s:21:\"UNSUB_SURVEY_FREQUENT\";i:1;s:21:\"UNSUB_SURVEY_RELEVANT\";}'),
+('unsub_redirect', ''),
+('uploadfolder', 'media/com_acym\\upload\\'),
+('use_sef', '0'),
+('version', '6.10.2'),
+('walkthrough_params', '{\"step\":\"stepGmail\",\"mail_id\":\"3\",\"list_id\":2}'),
+('walk_through', '0'),
+('website', 'http://poetsofcode.com/joomla/defacto/'),
+('welcome_message', '1'),
+('word_wrapping', '150');
+/**ABDB**/CREATE TABLE `#__acym_automation` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `description` longtext,
+  `active` tinyint(3) NOT NULL,
+  `report` text,
+  `tree` longtext,
+  `admin` tinyint(3) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_automation`  VALUES 
+('1', 'ACYM_ADMIN_USER_CREATE', 'ACYM_ADMIN_USER_CREATE_DESC', '0', NULL, NULL, '1'),
+('2', 'ACYM_ADMIN_USER_MODIFICATION', 'ACYM_ADMIN_USER_MODIFICATION_DESC', '0', NULL, NULL, '1');
+/**ABDB**/CREATE TABLE `#__acym_step` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `triggers` longtext,
+  `automation_id` int(11) NOT NULL,
+  `last_execution` int(11) DEFAULT NULL,
+  `next_execution` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `fkvq3ai_acym__step1` (`automation_id`),
+  CONSTRAINT `fkvq3ai_acym__step1` FOREIGN KEY (`automation_id`) REFERENCES `#__acym_automation` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_step`  VALUES 
+('1', 'ACYM_ADMIN_USER_CREATE', '{\"user_creation\":[\"\"],\"type_trigger\":\"user\"}', '1', NULL, NULL),
+('2', 'ACYM_ADMIN_USER_CREATE', '{\"user_modification\":[\"\"],\"type_trigger\":\"user\"}', '2', NULL, NULL);
+/**ABDB**/CREATE TABLE `#__acym_condition` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `step_id` int(11) NOT NULL,
+  `conditions` longtext,
+  PRIMARY KEY (`id`),
+  KEY `fk_vq3ai_acym_condition1` (`step_id`),
+  CONSTRAINT `fk_vq3ai_acym_condition1` FOREIGN KEY (`step_id`) REFERENCES `#__acym_step` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_condition`  VALUES 
+('1', '1', '{\"type_condition\":\"user\"}'),
+('2', '2', '{\"type_condition\":\"user\"}');
+/**ABDB**/CREATE TABLE `#__acym_action` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `condition_id` int(11) NOT NULL,
+  `actions` longtext,
+  `filters` longtext,
+  `order` int(11) NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `fk_vq3ai_acym_action1` (`condition_id`),
+  CONSTRAINT `fk_vq3ai_acym_action1` FOREIGN KEY (`condition_id`) REFERENCES `#__acym_condition` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+/**ABDB**/INSERT INTO `#__acym_action`  VALUES 
+('1', '1', '[{\"acy_add_queue\":{\"mail_id\":\"7\",\"time\":\"[time]\"}}]', '{\"0\":{\"1\":{\"acy_field\":{\"field\":\"email\",\"operator\":\"=\",\"value\":\"email@email.com\"}}},\"type_filter\":\"classic\"}', '1'),
+('2', '2', '[{\"acy_add_queue\":{\"mail_id\":\"8\",\"time\":\"[time]\"}}]', '{\"0\":{\"1\":{\"acy_field\":{\"field\":\"email\",\"operator\":\"=\",\"value\":\"email@email.com\"}}},\"type_filter\":\"classic\"}', '1');
+/**ABDB**/CREATE TABLE `#__action_logs_users` (
+  `user_id` int(11) unsigned NOT NULL,
+  `notify` tinyint(1) unsigned NOT NULL,
+  `extensions` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  PRIMARY KEY (`user_id`),
+  KEY `idx_notify` (`notify`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/**ABDB**/CREATE TABLE `#__action_logs_extensions` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `extension` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=19 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/**ABDB**/INSERT INTO `#__action_logs_extensions`  VALUES 
+('1', 'com_banners'),
+('2', 'com_cache'),
+('3', 'com_categories'),
+('4', 'com_config'),
+('5', 'com_contact'),
+('6', 'com_content'),
+('7', 'com_installer'),
+('8', 'com_media'),
+('9', 'com_menus'),
+('10', 'com_messages'),
+('11', 'com_modules'),
+('12', 'com_newsfeeds'),
+('13', 'com_plugins'),
+('14', 'com_redirect'),
+('15', 'com_tags'),
+('16', 'com_templates'),
+('17', 'com_users'),
+('18', 'com_checkin');
+/**ABDB**/CREATE TABLE `#__action_logs` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `message_language_key` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+  `message` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `log_date` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `extension` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+  `user_id` int(11) NOT NULL DEFAULT '0',
+  `item_id` int(11) NOT NULL DEFAULT '0',
+  `ip_address` varchar(40) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '0.0.0.0',
+  PRIMARY KEY (`id`),
+  KEY `idx_user_id` (`user_id`),
+  KEY `idx_user_id_logdate` (`user_id`,`log_date`),
+  KEY `idx_user_id_extension` (`user_id`,`extension`),
+  KEY `idx_extension_item_id` (`extension`,`item_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/**ABDB**/CREATE TABLE `#__action_log_config` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `type_title` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+  `type_alias` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+  `id_holder` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `title_holder` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `table_name` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `text_prefix` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=20 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/**ABDB**/INSERT INTO `#__action_log_config`  VALUES 
+('1', 'article', 'com_content.article', 'id', 'title', '#__content', 'PLG_ACTIONLOG_JOOMLA'),
+('2', 'article', 'com_content.form', 'id', 'title', '#__content', 'PLG_ACTIONLOG_JOOMLA'),
+('3', 'banner', 'com_banners.banner', 'id', 'name', '#__banners', 'PLG_ACTIONLOG_JOOMLA'),
+('4', 'user_note', 'com_users.note', 'id', 'subject', '#__user_notes', 'PLG_ACTIONLOG_JOOMLA'),
+('5', 'media', 'com_media.file', '', 'name', '', 'PLG_ACTIONLOG_JOOMLA'),
+('6', 'category', 'com_categories.category', 'id', 'title', '#__categories', 'PLG_ACTIONLOG_JOOMLA'),
+('7', 'menu', 'com_menus.menu', 'id', 'title', '#__menu_types', 'PLG_ACTIONLOG_JOOMLA'),
+('8', 'menu_item', 'com_menus.item', 'id', 'title', '#__menu', 'PLG_ACTIONLOG_JOOMLA'),
+('9', 'newsfeed', 'com_newsfeeds.newsfeed', 'id', 'name', '#__newsfeeds', 'PLG_ACTIONLOG_JOOMLA'),
+('10', 'link', 'com_redirect.link', 'id', 'old_url', '#__redirect_links', 'PLG_ACTIONLOG_JOOMLA'),
+('11', 'tag', 'com_tags.tag', 'id', 'title', '#__tags', 'PLG_ACTIONLOG_JOOMLA'),
+('12', 'style', 'com_templates.style', 'id', 'title', '#__template_styles', 'PLG_ACTIONLOG_JOOMLA'),
+('13', 'plugin', 'com_plugins.plugin', 'extension_id', 'name', '#__extensions', 'PLG_ACTIONLOG_JOOMLA'),
+('14', 'component_config', 'com_config.component', 'extension_id', 'name', '', 'PLG_ACTIONLOG_JOOMLA'),
+('15', 'contact', 'com_contact.contact', 'id', 'name', '#__contact_details', 'PLG_ACTIONLOG_JOOMLA'),
+('16', 'module', 'com_modules.module', 'id', 'title', '#__modules', 'PLG_ACTIONLOG_JOOMLA'),
+('17', 'access_level', 'com_users.level', 'id', 'title', '#__viewlevels', 'PLG_ACTIONLOG_JOOMLA'),
+('18', 'banner_client', 'com_banners.client', 'id', 'name', '#__banner_clients', 'PLG_ACTIONLOG_JOOMLA'),
+('19', 'application_config', 'com_config.application', '', 'name', '', 'PLG_ACTIONLOG_JOOMLA');

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+    <field type="text" name="uri" label="PLG_SYS_EPRIVACY_LINKS_URI_LABEL" description="PLG_SYS_EPRIVACY_LINKS_URI_DESC" />
+    <field type="radio" name="selectarea" default="=" label="PLG_SYS_EPRIVACY_LINKS_SELECTAREA_LABEL" description="PLG_SYS_EPRIVACY_LINKS_SELECTAREA_DESC">
+        <option value="=">PLG_SYS_EPRIVACY_LINKS_SELECTAREA_COMPLETE</option>
+        <option value="^=">PLG_SYS_EPRIVACY_LINKS_SELECTAREA_BEGINS</option>
+        <option value="$=">PLG_SYS_EPRIVACY_LINKS_SELECTAREA_ENDS</option>
+    </field>
+</form>
